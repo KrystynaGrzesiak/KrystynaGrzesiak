@@ -12,7 +12,7 @@ My name is Krystyna Grzesiak. I'm master of mathematics specialized in data anal
 
 - I'm currently working on [HaDeX package](https://github.com/hadexversum/HaDeX) with its maintainer [Weronika Puchała](https://github.com/werpuc).
 
-##### * outdoor projects :climbing_woman:
+##### Outdoor projects :climbing_woman:
 
 - [Taniec Tygryska](http://topo.portalgorski.pl/droga,9522,Chatka,Taniec-Tygryska) - VI.1+
 
