@@ -14,5 +14,5 @@ My name is Krystyna Grzesiak. I'm master of mathematics specialized in data anal
 
 ##### Outdoor projects :climbing_woman:
 
-- [Taniec Tygryska](http://topo.portalgorski.pl/droga,9522,Chatka,Taniec-Tygryska) - VI.1+
+- [Taniec Tygryska](http://topo.portalgorski.pl/droga,9522,Chatka,Taniec-Tygryska) - 6b+
 
