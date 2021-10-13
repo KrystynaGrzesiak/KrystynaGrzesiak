@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hello there 👋
 
-<!--
-**KrystynaGrzesiak/KrystynaGrzesiak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Krystyna Grzesiak. I'm master of mathematics specialized in data analysis.
 
-Here are some ideas to get you started:
+#### Team
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:genie: proud [BioGenies](https://github.com/BioGenies) member :genie:
+
+#### Projects
+
+- I'm developer of [powerHaDeX](https://github.com/hadexversum/powerHaDeX) package - the tool for simulating and analyzing the data coming from HDX-MS experiments, and author of novel semiparametric test for differences in deuteration levels that (I hope) will be published soon.
+
+- I'm currently working on [HaDeX package](https://github.com/hadexversum/HaDeX) with its maintainer [Weronika Puchała](https://github.com/werpuc).
+
+##### * outdoor projects :climbing_woman:
+
+- [Taniec Tygryska](http://topo.portalgorski.pl/droga,9522,Chatka,Taniec-Tygryska) - VI.1+
+
