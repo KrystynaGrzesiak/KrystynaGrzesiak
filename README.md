@@ -8,7 +8,7 @@ My name is Krystyna Grzesiak. I'm master of mathematics specialized in data anal
 
 #### Projects
 
-- I'm developer of [powerHaDeX](https://github.com/hadexversum/powerHaDeX) package - the tool for simulating and analyzing the data coming from HDX-MS experiments, and author of novel semiparametric test for differences in deuteration levels that (I hope) will be published soon.
+- I'm developer of [powerHaDeX](https://github.com/hadexversum/powerHaDeX) package - the tool for simulating and analyzing the data coming from HDX-MS experiments, and author of novel semiparametric test for differences in deuteration levels - available on CRAN!
 
 - I'm currently working on [HaDeX package](https://github.com/hadexversum/HaDeX) with its maintainer [Weronika Puchała](https://github.com/werpuc).
 
