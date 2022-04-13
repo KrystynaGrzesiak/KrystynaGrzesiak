@@ -12,6 +12,8 @@ My name is Krystyna Grzesiak. I'm master of mathematics specialized in data anal
 
 - I'm currently working on [HaDeX package](https://github.com/hadexversum/HaDeX) with its maintainer [Weronika Puchała](https://github.com/werpuc).
 
+- I'm Name That Tune! game enthusiast and I created an app that allows for playing this exciting game with Spotify! The app lives [here](https://krystynagrzesiak.shinyapps.io/NTT-test). If you want to try, write me first and I will add your Spotify e-mail to the whitelist! 
+
 ##### Outdoor projects :climbing_woman:
 
 - [Taniec Tygryska](http://topo.portalgorski.pl/droga,9522,Chatka,Taniec-Tygryska) - 6b+
