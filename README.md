@@ -17,4 +17,3 @@ My name is Krystyna Grzesiak. I'm master of mathematics specialized in data anal
 ##### Outdoor projects :climbing_woman:
 
 - Currently looking for new ones.
-https://krystynagrzesiak.shinyapps.io/NTT-dev
