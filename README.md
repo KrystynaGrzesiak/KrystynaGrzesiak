@@ -8,7 +8,7 @@ Proud member of the [BioGenies](https://biogenies.info/) crew :genie: :genie:
 
 #### Projects
 
-- I'm a huge fan of the Name That Tune! game — so much so that I built an app that lets you play it using Spotify! 🎶 The app is live and ready to go. Want to give it a try? Just drop me a message with your Spotify email, and I’ll add you to the whitelist!
+- I'm a huge fan of the Name That Tune! game — so much so that I built an app that lets you play it using Spotify! 🎶 [The app](https://krystynagrzesiak.shinyapps.io/NTT-dev) is live and ready to go. Want to give it a try? Just drop me a message with your Spotify email, and I’ll add you to the whitelist!
 
 ##### Outdoor projects :climbing_woman:
 
