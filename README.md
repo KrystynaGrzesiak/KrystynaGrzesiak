@@ -1,15 +1,15 @@
 ### Hello there 👋
 
-My name is Krystyna Grzesiak. I'm PhD candidate in mathematics specialized in data analysis.
+I'm Krystyna Grzesiak, a PhD candidate in mathematics with a passion for statistics — and an even bigger passion for programming in R! 📊💻
 
 #### Team
 
-:genie: proud [BioGenies](https://github.com/BioGenies) member :genie:
+Proud member of the [BioGenies](https://biogenies.info/) crew :genie: :genie: 
 
 #### Projects
 
-- I'm Name That Tune! game enthusiast and I created an app that allows for playing this exciting game with Spotify! The app lives [here](https://krystynagrzesiak.shinyapps.io/NTT-dev). If you want to try, text me and I will add your Spotify e-mail to the whitelist! 
+- I'm a huge fan of the Name That Tune! game — so much so that I built an app that lets you play it using Spotify! 🎶 The app is live and ready to go. Want to give it a try? Just drop me a message with your Spotify email, and I’ll add you to the whitelist!
 
 ##### Outdoor projects :climbing_woman:
 
-- Currently looking for new ones.
+- Will probably train soon for [Paralizator](https://27crags.com/crags/szczytnik/routes/paralizator)
